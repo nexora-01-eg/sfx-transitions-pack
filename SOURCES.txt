@@ -1,0 +1,17 @@
+# حزمة مؤثرات انتقالية للوجوهات — 30 مسارًا
+## NEXORA Transitions SFX Pack v1
+
+المحتويات:
+- tracks/wav/ — 14 مؤثرًا **مصنوعًا أصليًا** (44.1kHz/16bit) — ملكية كاملة، بلا أي قيد ترخيص
+  - boom-deep ×3 (طبلة سينمائية عميقة)
+  - riser-cinematic ×3 (صعود 1.6–2.8 ثانية)
+  - whoosh-airy ×2 · chime-logo ×2 · reverse-sweep ×2 · subdrop ×2
+- tracks/mp3/ — نسخ MP3 320k من الـ14 الأصلية
+- tracks/curated-mp3/ — 16 مؤثرًا منسقًا من ترسانة NEXORA (whoosh/riser/impact/glitch)
+- WAVEFORM-SHEET.jpg — لوحة الموجات للمراجعة والعرض
+
+⚠️ تنبيه الترخيص (بأمانة): الـ14 الأصلية ملكك 100% وبِعها بحرية.
+الـ16 المنسقة أسماؤها من freesound/pixabay (dragon-studio, universfield...) —
+راجع ترخيص كل ملف أصلي قبل البيع التجاري، أو بِع نسخة "Originals Only" (14 مسارًا) بصفر مخاطرة.
+
+السعر المقترح: 12–19$ للحزمة الكاملة، 9$ لنسخة Originals.
